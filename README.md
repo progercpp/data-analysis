@@ -1,5 +1,5 @@
 # data-analysis
-Здесь находится решение моей команды к соревнованию летней школы по анализу данных от ФКН. Подробно можно посмотреть на https://www.kaggle.com/competitions/whatsthenumber/overview (команда 'ъуъ')
+Здесь находится решение моей команды к соревнованию летней школы по анализу данных от ФКН (https://cs.hse.ru/dataschool/2024/#students). Подробно про соревнование можно посмотреть на https://www.kaggle.com/competitions/whatsthenumber/overview (команда 'ъуъ')
 
 
 Краткое описание:
